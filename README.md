@@ -5,6 +5,14 @@
 * 🚀  I'm currently working on [Lery programing language](http://github.com/PalsFreniers/C-lery)
 * 🧠  I'm learning programing language creation
 
+👋 Welcome to my GitHub profile! I'm deeply entrenched in the realms of system-level programming and low-level magic. 💻 My toolbox includes proficiency in C, assembly, Vala, JavaScript, HTML, CSS, and C++.
+
+🚀 Currently, my creative energy is channeling into crafting six groundbreaking programming languages. Simultaneously, I'm developing an interactive program for learning C, aiming to make it an engaging experience for beginners and enthusiasts alike.
+
+🌟 Innovation fuels my every project, and I'm all about collaboration—driven by a passion that burns brightly across everything I code. Join me on this journey of pushing boundaries and creating tech that sparks excitement.
+
+Let's connect and code! 🌐✨
+
 <a href="https://www.github.com/PalsFreniers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PalsFreniers?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
